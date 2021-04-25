@@ -12,7 +12,7 @@
 - 💻 &nbsp; Python | C# | Java | C | C++ | MATLAB | Assembly |
 - 🌐 &nbsp; Android | React | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp | MongoDB |
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; Android Studio | PyCharm | VS Code | Eclipse | Git
 - 🖥 &nbsp; Adobe Animate | Illustrator | Photoshop | Premiere
 
 <br>
