@@ -5,7 +5,7 @@
 
 
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ema11412&hide=shell,makefile&layout=compact&theme=cobalt&langs_count=8" width="450"/>
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ema11412&hide=shell,makefile,jupyter notebook&layout=compact&theme=cobalt&langs_count=8" width="450"/>
 
 <h3>🛠 Tech Stack</h3>
 
