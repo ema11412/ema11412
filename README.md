@@ -1,8 +1,7 @@
 [![Social banner](https://github.com/ema11412/ema11412/blob/main/assets/terra1.gif)](https://github.com/ema11412)
 
 
-<h2> Hey there! I'm Ema ! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="23"></h2>
-
+<h2> Hey there! I'm Ema !
 
 
 <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ema11412&hide=shell,makefile,jupyter notebook,verilog&layout=compact&theme=cobalt&langs_count=10" width="450"/>
