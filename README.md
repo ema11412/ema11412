@@ -26,3 +26,6 @@
 &nbsp; <a href="https://www.linkedin.com/in/emanuel-esquivel/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="emanuel1412@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+
+<img src="https://raw.githubusercontent.com/ema11412/ema11412/output/snake.svg" alt="Snake animation" />
