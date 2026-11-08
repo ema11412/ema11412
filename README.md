@@ -7,7 +7,7 @@
 # Hola, soy Ema 👋
 
 <a href="https://ema.orionyx.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=53B14F&center=true&vCenter=true&width=620&lines=Senior+Backend+Developer+%C2%B7+Python+%26+Odoo;Creador+de+Space+Pirates+%C2%B7+juego+de+cartas+online;Data+Science+%C2%B7+IA+%C2%B7+LLMs;Self-hosting+con+Docker+en+mi+propio+VPS;Simulaciones+de+f%C3%ADsica+en+el+navegador" alt="Senior Backend Developer · Python & Odoo · Data Science · IA" />
+  <img src="assets/terminal.svg" width="760" alt="$ whoami: Emanuel Esquivel · Sr. AI Analyst · Freelance · Costa Rica. Python, Django, FastAPI, Odoo, Data Science y LLMs. Creador de Space Pirates." />
 </a>
 
 <br />
@@ -19,27 +19,6 @@
 <a href="mailto:ema@orionyx.dev"><img src="https://img.shields.io/badge/Email-ema@orionyx.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-### `$ whoami`
-
-```python
-class Ema:
-    nombre    = "Emanuel Esquivel"
-    ubicacion = "Costa Rica 🇨🇷 · remoto"
-    rol       = "Sr. AI Analyst · Freelance"
-    antes     = ["Sr Backend Developer & Data Scientist @ Grupo OLA",
-                 "Sr Odoo Developer @ Grupo OLA"]
-
-    hago      = ["APIs y microservicios con Django / FastAPI",
-                 "Módulos custom y automatización en Odoo",
-                 "Modelos de ML, LLMs y pipelines de datos",
-                 "Infra propia: Docker, Caddy, Postgres y CI/CD"]
-
-    estrella  = "Space Pirates 🏴‍☠️ · space-pirates.orionyx.dev"
-    ahora     = "Simulaciones interactivas de física y matemáticas en la web"
-```
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -101,6 +80,12 @@ class Ema:
   </tr>
 </table>
 
+#### 🎴 Carta del día
+
+<a href="https://space-pirates.orionyx.dev/">
+  <img src="https://raw.githubusercontent.com/ema11412/ema11412/output/carta-del-dia.svg" width="100%" alt="Carta del día de Space Pirates: cambia cada medianoche" />
+</a>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs" alt="Next.js 16" />
@@ -123,75 +108,71 @@ class Ema:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🕵️ <a href="https://the-impostor-game.orionyx.dev/">Juego del Impostor</a></h4>
-      Juego multijugador de deducción social para jugar desde el celular: pistas por turnos, debate y votación. El servidor tiene la autoridad sobre PostgreSQL y el tiempo real va por Server-Sent Events.
+      <a href="https://the-impostor-game.orionyx.dev/"><img src="assets/proyectos/impostor.svg" width="100%" alt="Juego del Impostor: Uno de ustedes miente" /></a>
+      <h3>🕵️ <a href="https://the-impostor-game.orionyx.dev/">Juego del Impostor</a></h3>
+      Juego de deducción social para jugar desde el celular, de 3 a 10 jugadores y sin registro. Todos conocen la palabra secreta menos el impostor: dan pistas por turnos, debaten y votan antes de que se salga con la suya. El servidor tiene la autoridad sobre PostgreSQL y el tiempo real va por Server-Sent Events.
       <br /><br />
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/SSE-555?style=flat-square" alt="SSE" />
-      <br /><a href="https://the-impostor-game.orionyx.dev/"><b>▶ Jugar</b></a>
+      <img src="https://img.shields.io/badge/SSE-555?style=flat-square" alt="Server-Sent Events" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      <br /><br /><a href="https://the-impostor-game.orionyx.dev/"><b>▶ Jugar</b></a>
     </td>
     <td width="50%" valign="top">
-      <h4>⚛️ <a href="https://ema.orionyx.dev/lab">Laboratorio de física</a></h4>
-      Más de 15 simulaciones interactivas: fluidos en la GPU, ecuaciones de Maxwell, orbitales del hidrógeno, un agujero negro, atractores extraños, Mandelbrot y patrones de Turing.
+      <a href="https://ema.orionyx.dev/lab"><img src="assets/proyectos/laboratorio.svg" width="100%" alt="Laboratorio de física: agujero negro, Mandelbrot, orbitales del hidrógeno y atractores extraños" /></a>
+      <h3>⚛️ <a href="https://ema.orionyx.dev/lab">Laboratorio de física</a></h3>
+      24 simulaciones interactivas y 2 juegos que corren en el navegador: un agujero negro, fluidos en la GPU, ecuaciones de Maxwell, orbitales del hidrógeno, túnel cuántico, espacio-tiempo de Minkowski, atractores extraños, Mandelbrot y patrones de Turing. Cada una viene con su ecuación.
       <br /><br />
       <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/KaTeX-008080?style=flat-square" alt="KaTeX" />
-      <br /><a href="https://ema.orionyx.dev/lab"><b>▶ Explorar</b></a>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <br /><br /><a href="https://ema.orionyx.dev/lab"><b>▶ Explorar</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🖥️ Infraestructura self-hosted</h4>
-      Un VPS propio donde corren mis proyectos en contenedores, con reverse proxy y HTTPS automático, PostgreSQL compartido y despliegue continuo en cada push. Mi portafolio corre ahí.
+      <img src="assets/proyectos/infra.svg" width="100%" alt="Diagrama de la infraestructura: git push, GitHub Actions, ghcr.io y deploy por SSH a un VPS con Caddy, las apps y PostgreSQL" />
+      <h3>🖥️ Infraestructura self-hosted</h3>
+      Un VPS propio donde corren mis proyectos en contenedores. Caddy hace de reverse proxy con HTTPS automático y PostgreSQL se comparte en una red interna, con una base por app. Cada push a <code>main</code> pasa por lint, tipos y pruebas, publica la imagen en GHCR y se despliega por SSH.
       <br /><br />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" alt="Caddy" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
     <td width="50%" valign="top">
-      <h4>📐 <a href="https://github.com/ema11412/FormularioSenales">Formulario de Señales y Sistemas</a></h4>
-      Formulario del curso EL4703 del TEC: variable compleja, mapeos, trigonometría, funciones hiperbólicas e integrales. Lo escribí en LaTeX y ahora también vive en la web.
+      <a href="https://ema.orionyx.dev/lab/recursos/formularios"><img src="assets/proyectos/formularios.svg" width="100%" alt="Formularios de ingeniería en ema.orionyx.dev" /></a>
+      <h3>📐 <a href="https://ema.orionyx.dev/lab/recursos/formularios">Formularios de ingeniería</a></h3>
+      Cinco formularios que escribí en LaTeX para los cursos del TEC: señales y sistemas, transformadas, circuitos y electrónica, electromagnetismo y física moderna, más dos prácticas. Ahora viven en la web: buscas una fórmula, la tocas y copias su LaTeX.
       <br /><br />
       <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
       <img src="https://img.shields.io/badge/KaTeX-008080?style=flat-square" alt="KaTeX" />
-      <br /><a href="https://ema.orionyx.dev/lab/recursos"><b>▶ Ver formulario</b></a>
+      <br /><br /><a href="https://ema.orionyx.dev/lab/recursos/formularios"><b>▶ Ver formularios</b></a> · <a href="https://github.com/ema11412/FormularioSenales">Repo en LaTeX</a>
     </td>
   </tr>
 </table>
 
 ### 🛠️ Stack
 
-**Backend y datos**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,redis,rabbitmq,sklearn,tensorflow&theme=dark" alt="Íconos: py, django, fastapi, postgres, redis, rabbitmq, sklearn, tensorflow" /></a>
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" height="48" alt="Odoo" />
-
-**Infra y DevOps**
-
-<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,aws,git,bash&theme=dark" alt="Íconos: docker, linux, githubactions, aws, git, bash" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Íconos: nextjs, react, ts, js, tailwind, html, css" />
+<img src="assets/stack.svg" width="100%" alt="Stack. IA y datos: Python, Claude, ElevenLabs, scikit-learn, TensorFlow, pandas, NumPy, Jupyter, OpenCV. Backend: Django, FastAPI, Odoo, PostgreSQL, Redis, RabbitMQ, Supabase, Reflex. Frontend y gráficos: Next.js, React, TypeScript, JavaScript, Tailwind, Framer Motion, D3.js, WebGL, HTML5, CSS. Infra y DevOps: Docker, Linux, Caddy, GitHub Actions, AWS, Git, Bash." />
 
 <details>
 <summary><b>También he trabajado con…</b></summary>
 <br />
-
-<img src="https://skillicons.dev/icons?i=cs,java,c,cpp,matlab,androidstudio,mysql,mongodb,firebase&theme=dark" alt="Íconos: cs, java, c, cpp, matlab, androidstudio, mysql, mongodb, firebase" />
-<br /><br />
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,ps,ai,pr&theme=dark" alt="Íconos: vscode, pycharm, ps, ai, pr" />
-
+<img src="assets/stack-extra.svg" width="100%" alt="También: C#, Java, C, C++, MATLAB, Android Studio, MySQL, MongoDB, Firebase, LaTeX, VS Code, PyCharm, Photoshop, Illustrator y Premiere." />
 </details>
 
 ### 🎧 Sonando ahora
 
 <!-- Si deja de verse, vuelve a conectar Spotify en https://spotify-github-profile.kittinanx.com/api/login -->
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12161713694&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Escuchando en Spotify" />
+  <a href="https://open.spotify.com/user/12161713694">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=12161713694&cover_image=true&theme=spotify-embed&show_offline=false&interchange=false&profanity=false&hide_remaster=false&mode=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.kittinanx.com/api/view?uid=12161713694&cover_image=true&theme=spotify-embed&show_offline=false&interchange=false&profanity=false&hide_remaster=false" />
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12161713694&cover_image=true&theme=spotify-embed&show_offline=false&interchange=false&profanity=false&hide_remaster=false&mode=dark" alt="Lo que estoy escuchando en Spotify" />
+    </picture>
   </a>
 </p>
 
@@ -202,3 +183,13 @@ class Ema:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ema11412/ema11412/output/snake.svg" />
   <img src="https://raw.githubusercontent.com/ema11412/ema11412/output/snake-dark.svg" alt="Serpiente comiéndose mis contribuciones" width="100%" />
 </picture>
+
+<details>
+<summary><sub>☠</sub></summary>
+<br />
+<div align="center">
+  <img src="assets/emblema.png" width="110" alt="Emblema de Space Pirates" />
+  <p><b>Encontraste el cofre del capitán.</b></p>
+  <p>Si llegaste hasta aquí abajo, ya eres parte de la tripulación.<br />Tu lugar en la mesa te espera: <a href="https://space-pirates.orionyx.dev/"><b>zarpa ahora</b></a> 🏴‍☠️</p>
+</div>
+</details>
